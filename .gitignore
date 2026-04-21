@@ -4,5 +4,4 @@ __pycache__/
 logs/
 artifacts/
 catboost_info/
-notebook/
 .ipynb_checkpoints
